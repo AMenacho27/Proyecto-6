@@ -1,0 +1,17 @@
+REGISTROS DE PAGOSINFORMACION DEL CLIENTE: 
+El nombre del cliente es: Pan
+El apellido del cliente es: CocaCola
+El email del cliente es: pancocacola@gmail.com
+El telefono del cliente es: +5072344356
+La localizacion del cliente es: lalitud:  longitud: 
+
+ INFORMACION DEL RESTAURANTE: 
+El nombre del restaurante es: Demo Restaurant
+El ID del restaurante es: 407082
+El telefono del restaurante es: +507 6027 5516
+
+ INFORMACION DE LA ORDEN: 
+El ID de la orden es: 561611086
+El precio es: 1.7
+El tipo de la orden es: pickup
+El metodo de pago es: CASH
